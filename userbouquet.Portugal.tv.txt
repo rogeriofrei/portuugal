@@ -1,0 +1,33 @@
+#NAME Portugal
+#SERVICE 4097:0:1:15C0:2E4:2E4:57E:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1406&chCm=http%3a//localhost/ch/5436&end=:PT: SPORT TV 1 HD
+#DESCRIPTION PT: SPORT TV 1 HD
+#SERVICE 4097:0:1:15C0:2E5:2E5:57F:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1407&chCm=http%3a//localhost/ch/5437&end=:PT: SPORT TV 2 HD
+#DESCRIPTION PT: SPORT TV 2 HD
+#SERVICE 4097:0:1:15C0:2E6:2E6:580:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1408&chCm=http%3a//localhost/ch/5438&end=:PT: SPORT TV 3 HD
+#DESCRIPTION PT: SPORT TV 3 HD
+#SERVICE 4097:0:1:15C0:2E7:2E7:581:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1409&chCm=http%3a//localhost/ch/5439&end=:PT: SPORT TV 4 HD
+#DESCRIPTION PT: SPORT TV 4 HD
+#SERVICE 4097:0:1:15C0:2E8:2E8:582:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1410&chCm=http%3a//localhost/ch/5440&end=:PT: SPORT TV 5 HD
+#DESCRIPTION PT: SPORT TV 5 HD
+#SERVICE 4097:0:1:15C0:2E9:2E9:591:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1425&chCm=http%3a//localhost/ch/5454&end=:PT: TVI Reality
+#DESCRIPTION PT: TVI Reality
+#SERVICE 4097:0:1:15C0:2EA:2EA:584:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1412&chCm=http%3a//localhost/ch/5442&end=:PT: TV Record
+#DESCRIPTION PT: TV Record
+#SERVICE 4097:0:1:15C0:2EB:2EB:585:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1413&chCm=http%3a//localhost/ch/5443&end=:PT: Benfica TV1
+#DESCRIPTION PT: Benfica TV1
+#SERVICE 4097:0:1:15C0:2EC:2EC:590:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1424&chCm=http%3a//localhost/ch/5455&end=:PT: TVI Ficcao
+#DESCRIPTION PT: TVI Ficcao
+#SERVICE 4097:0:1:15C0:2ED:2ED:587:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1415&chCm=http%3a//localhost/ch/5445&end=:PT: Sporting TV
+#DESCRIPTION PT: Sporting TV
+#SERVICE 4097:0:1:15C0:2EE:2EE:588:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1416&chCm=http%3a//localhost/ch/5446&end=:PT: RTPAçores
+#DESCRIPTION PT: RTPAçores
+#SERVICE 4097:0:1:15C0:2EF:2EF:589:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1417&chCm=http%3a//localhost/ch/5447&end=:PT: RTP1
+#DESCRIPTION PT: RTP1
+#SERVICE 4097:0:1:15C0:2F0:2F0:58A:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1418&chCm=http%3a//localhost/ch/5448&end=:PT: RTP2
+#DESCRIPTION PT: RTP2
+#SERVICE 4097:0:1:15C0:2F1:2F1:58B:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1419&chCm=http%3a//localhost/ch/5449&end=:PT: RTP3
+#DESCRIPTION PT: RTP3
+#SERVICE 4097:0:1:15C0:2F4:2F4:58E:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1422&chCm=http%3a//localhost/ch/5451&end=:PT: RTP Memoria
+#DESCRIPTION PT: RTP Memoria
+#SERVICE 4097:0:1:15C0:2F5:2F5:58F:0:0:0:http%3a//proiptv.magiptv.net/stalker_portal/j.php?mode=itv&ph1=s&hst=aHR0cDovL3Byb2lwdHYubWFnaXB0di5uZXQvc3RhbGtlcl9wb3J0YWw=&chCode=MDA6MUE6Nzk6NDk6Nzg6RkM=&epNum=&epId=&cId=5568&sId=1423&chCm=http%3a//localhost/ch/5452&end=:PT: TVI
+#DESCRIPTION PT: TVI
